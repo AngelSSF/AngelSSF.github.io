@@ -1,0 +1,27 @@
+h1{
+    color: rgb(0, 238, 238);
+    font-weight:530;
+    font-family:Georgia;
+	margin:15px 100px;
+    height:45px;
+
+}   
+p{
+    float:center;
+    background-color: rgb(121, 0, 151);
+    margin:30px 100px;
+    }
+
+h2{
+    color:white;
+    font-weight:500;
+    font-family:Georgia;
+    margin: 5px 110px;
+    height:300px;
+}
+div{
+    color: rgb(255, 255, 255);
+    background: rgb(0, 184, 230);
+    margin:30px 700px;
+    border: chartreuse;
+}
