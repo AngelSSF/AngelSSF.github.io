@@ -20,8 +20,8 @@ h2{
     height:300px;
 }
 div{
-    color: rgb(255, 255, 255);
-    background: rgb(0, 184, 230);
+    color: #5d5a6e;
+    background: rgb(0, 159, 199);
     margin:30px 700px;
     border: chartreuse;
 }
